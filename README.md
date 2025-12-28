@@ -8,7 +8,7 @@ Este proyecto no está terminado, contiene bugs por corregir y aún faltan juego
 
 ## Descripción
 
-PicoPear es un conjunto de configuraciones, librerías y programas para hacer funcionar una placa de expansión muy económica de AliExpress (menos de 5€) diseñada para la Raspberry Pi Pico. Esta placa incluye una pantalla IPS de 240x240 (ST7789) y 10 botones de usuario.
+PicoPear es un conjunto de configuraciones, librerías y programas para hacer funcionar una placa de expansión muy económica de AliExpress (menos de 5€) diseñada para la Raspberry Pi Pico. Esta placa incluye una pantalla IPS de 240x240 (ST7789) y 12 botones, al estilo de una micro consola portátil.
 
 El proyecto está enfocado al uso del firmware **Picomite 6.01** (la versión normal, no las variantes HDMI, VGA, etc.).
 
@@ -37,11 +37,13 @@ Para instalarlo y que arranque automáticamente al encender o resetear la Pico, 
    ```mmbasic
    LOAD "autorun.bas"
    ```
+
 2. Guárdalo en el espacio dedicado de la flash:
    
    ```mmbasic
    FLASH OVERWRITE 1
    ```
+
 3. Habilita el autoarranque:
    
    ```mmbasic
