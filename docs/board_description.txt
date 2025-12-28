@@ -1,0 +1,17 @@
+Features 
+
+	240x240 resolution, IPS screen, colors, clear and colorful displaying effect
+	SPI interface, requires minimal IO pins
+	10x user buttons for easy interacting
+	Comes with development resources and manual (Raspberry Pi Pico C/C++ and MicroPython examples)
+
+Specifications
+
+	OPERATING VOLTAGE: 3.3V
+	RESOLUTION: 240x240 pixels
+	COMMUNICATION INTERFACE: 4-wire SPI, I2C
+	DISPLAY PANEL: IPS
+	CONTROL CHIP: ST7789( Green-1.54inch lcd )
+
+Raspberry Pi Pico Header Compatibility
+Onboard Female Pin Header For Direct Attaching To Raspberry Pi Pico10x User Buttons For Easy Interacting
