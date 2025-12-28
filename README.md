@@ -8,12 +8,10 @@ Este proyecto no está terminado, contiene bugs por corregir y aún faltan juego
 
 ## Descripción
 
-PicoPear es un conjunto de configuraciones, librerías y programas para hacer funcionar una placa de expansión muy económica (AliExpress se puede encontrar por menos de 5€) diseñada para la Raspberry Pi Pico. 
+PicoPear es un conjunto de configuraciones, librerías y programas para hacer funcionar una placa de expansión muy económica (en AliExpress se puede encontrar por menos de 5€) diseñada para la Raspberry Pi Pico. 
 
 Página del fabricante:
 [Raspberry Pi Pico display 1.54inch LCD 240×240 IPS 1.54 inch screen](https://spotpear.com/shop/Raspberry-Pi-Pico-RP2040-1.54inch-LCD-display-Screen-Game-ST7789.html)
-
-
 
 Esta placa incluye una pantalla IPS de 240x240 (ST7789) y 12 botones, al estilo de una micro consola portátil.
 
