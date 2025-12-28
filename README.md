@@ -52,4 +52,4 @@ Para instalarlo y que arranque automáticamente al encender o resetear la Pico, 
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia **MIT**. 
+Este proyecto se distribuye bajo la licencia **LQTSC** (haz Lo Que Te Salga de los Cojones con el código).
